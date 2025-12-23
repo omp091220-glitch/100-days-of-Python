@@ -1,0 +1,11 @@
+Goals: Printing, Commenting, Debugging, String Manipulation and Variables
+
+I'll be building a Band Name Generator Program by the end of this day!
+First of all, you need to download Pycharm - It is an IDE
+What does the error SyntaxError : EOL while scanning string literal? Answer: It means that you have not used  '"' while using a print statement!
+Concatenation is possible directly - Ex: print("I am a" + " " + "Student") is possible
+Spaces are important in Python (Not inside a print statement, but outside the print statements)
+Ex: (space)print("Hello World!") is wrong; but, print(space)("Hello World!") is correct but it will give you a warning for using a space in between 'print' and '()'
+You take in input using 'input()'
+You calculate the length of a string using 'len(string_name)'
+Variable names like '1name', '2name', etc are error.
