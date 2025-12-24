@@ -1,1 +1,16 @@
-Goal : Data Types, Numbers, Operations, Type Conversion, f-strings
+Goal: Data Types, Numbers, Operations, Type Conversion, f-strings
+
+I will be making a tip calculator by the end of today!
+print(len(12345)) does not give me 5 because it is an int
+You can use Negative Indices! It's just that vo piche se chalu hoga. For Example, print("Hello"[-1]) will give me 'o' as the output!
+print("123" + "345") will give me 123345 as the output and not the 468.
+Large numbers are represented with underscores. Ex: print(123_456_789) will print 123456789 as the output!
+You can only concatenate a string to a string, not an integer.
+When you are using multiple mathematical operators in a single line, you use PEMDAS rule, i.e., Parenthesis, Exponents, Multiplication, Division, Addition and Subtraction
+Exponents are represented using 2 asteriks i.e., **
+Whenever you are dividing a number, you always end up getting up a floating point number
+
+print(6 / 3) will give you 2.0 as the output.
+print(6 // 3) will give you 2 as the output ,i,e., it converts the floating number to an integer
+
+A floating number is rounded up using round(variable_name)
